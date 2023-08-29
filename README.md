@@ -1,7 +1,11 @@
 # GoStealthy
 A stealthy reverse shell written in Go Lang
 
-## USAGE
+## Pre-Requisites
+
+* Go
+
+## Usage
 ```
 chmod +x GoStealthy.sh
 ```

@@ -3,7 +3,7 @@ A stealthy reverse shell written in Go Lang
 
 ## Pre-Requisites
 
-* Go
+* Install Golang
 
 ## Usage
 ```

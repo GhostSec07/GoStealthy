@@ -1,5 +1,5 @@
 # GoStealthy
-A stealthy reverse shell written in Go
+A stealthy reverse shell written in Go Lang
 
 ## USAGE
 ```
